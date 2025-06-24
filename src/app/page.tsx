@@ -1,3 +1,9 @@
+// Ovde staviš kompletan Particle Stabilizer kod
+// Samo dodaj na vrh:
+export default function ParticleStabilizer() {
+  // ... ceo kod ...
+}
+
 import React, { useState, useEffect, useRef } from 'react';
 import { Atom, Zap, Activity, Target, TrendingUp, Download, Waves, Eye, Cpu, Star, Shield, Gauge } from 'lucide-react';
 
